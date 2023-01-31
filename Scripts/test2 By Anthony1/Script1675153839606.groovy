@@ -21,3 +21,5 @@ WS.getResponseStatusCode('')
 
 WS.sendRequestAndVerify(findTestObject(null))
 
+WS.getResponseStatusCode('')
+
